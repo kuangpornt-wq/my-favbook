@@ -117,7 +117,17 @@
   font-size: 700;
   color: #e8e6dc;
 }
+/* ฟอนต์Footer */
 
+
+.open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
 
 /* ==========================================
 Book Cover Section Stylesheet
